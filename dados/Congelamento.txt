@@ -1,0 +1,4 @@
+Congelamento
+Data      ;Nucoin;Descongelamento
+15/08/2023;50    ;15/02/2024
+16/08/2023;700   ;15/02/2024
